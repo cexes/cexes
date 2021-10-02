@@ -3,7 +3,7 @@
 
 ![Cexes GitHub stats](https://github-readme-stats.vercel.app/api?username=cexes&show_icons=true&theme=midnight-purple&count_private=true)
 <br>
-
+![Cexes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cexes&theme=midnight-purple)
 
 ## Tecnologias que eu uso no meu dia
 
