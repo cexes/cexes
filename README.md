@@ -1,7 +1,7 @@
 ## Olá mundo, meu nome é Cesar
 <div align="center">
-<img height="50px" src="https://github-readme-stats.vercel.app/api?username=cexes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexes&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=cexes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexes&layout=compact&langs_count=7&theme=midnight-purple"/>
  <br><br>
 
  <img align="right"  height="97" src="https://c.tenor.com/kCSyr3RpH48AAAAC/kid-goku-kid-goku-clapping.gif">
