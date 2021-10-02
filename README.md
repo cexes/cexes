@@ -2,6 +2,8 @@
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=cexes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexes&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <br><br>
+
  <img align="right"  height="97" src="https://c.tenor.com/kCSyr3RpH48AAAAC/kid-goku-kid-goku-clapping.gif">
  
 <br>
