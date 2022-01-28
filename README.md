@@ -4,7 +4,7 @@
 <img height="150px"style ="border-radius:50ps" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexes&layout=compact&langs_count=7&theme=midnight-purple"/>
  <br><br>
 
- <img align="right"  height="97" src="https://c.tenor.com/SVcLNZOi8bkAAAAM/rainn-wilson-evil-laugh.gif">
+ <img align="right"  height="97" src="https://camo.githubusercontent.com/023a25934bf6e624e52c5f6ac92f1cebbd6e1d28ef2d71033945bdfef070a65c/68747470733a2f2f632e74656e6f722e636f6d2f6b4353797233527048343841414141432f6b69642d676f6b752d6b69642d676f6b752d636c617070696e672e676966">
  
 <br>
 
