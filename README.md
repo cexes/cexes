@@ -4,7 +4,7 @@
 <img height="150px"style ="border-radius:50ps" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexes&layout=compact&langs_count=7&theme=midnight-purple"/>
  <br><br>
 
- <img align="right"  height="97" src="https://c.tenor.com/kCSyr3RpH48AAAAC/kid-goku-kid-goku-clapping.gif">
+ <img align="right"  height="97" src="https://c.tenor.com/SVcLNZOi8bkAAAAM/rainn-wilson-evil-laugh.gif">
  
 <br>
 
